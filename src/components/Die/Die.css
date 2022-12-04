@@ -1,0 +1,16 @@
+.dice{
+    width: 50px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 5px;
+    box-shadow: 3px 3px 8px;
+    color: rgba(16, 35, 80, 0.77);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.dice h3{
+    font-weight: bold;
+    font-size: 2rem;
+}

@@ -1,0 +1,18 @@
+.time-container{
+    display: flex;
+    justify-content: space-between;
+    width:  100%;
+    
+}
+.timer{
+    background-color: aquamarine;
+    font-family: verdana;
+    font-weight: 8px;
+    font-size: 12px;
+}
+.best-time{
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 8px;
+    font-size: 12px;
+}
